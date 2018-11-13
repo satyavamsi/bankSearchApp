@@ -1,0 +1,15 @@
+td {
+	word-wrap: break-all;
+}
+
+table {
+	display: table;
+	overflow-x: unset;
+	word-break: break-word;
+}
+
+button.loading {
+	position: absolute;
+	top: 50%;
+	left: 47%;
+}
